@@ -1,15 +1,16 @@
 # seattle-ops-102d10AssignmentsRead-Class-04
-
+# Why this matters?
+This matters because in this class we will be ulitilizing Ubunto quite alot so it's important to know how to operate a resource to the best of your ablitlies. Also it servesd as a great tool outside of class.  
 ## Readings: Installing Ubuntu Linux
 Below you will find some reading materials and videos that support today’s topic and the upcoming lecture.
 
 Reading
 The Complete Beginner’s Guide to Ubuntu
 
-1. [1.What is Ubuntu?] Ubuntu is an desktop operating system that's based upon the open-source software development.
-2. [2.Why would you choose to install the LTS version over regular Ubuntu releases?] The LTS stands for long-term support adn it last for 5 years versus the few months the other offers.
-3. [3.What is the Ubuntu GNOME Shell?] The display screen for the desktop.
-4. [4.How do I install software from the command line?] To install you will use the apt managing system.To install software from the command line in Ubuntu, you can use the APT package management system. APT (Advanced Package Tool) is a command-line tool for managing software packages in Debian-based Linux distributions, including Ubuntu. Here are the basic steps for installing software using the command line:
+1. [What is Ubuntu?] Ubuntu is an desktop operating system that's based upon the open-source software development.
+2. [Why would you choose to install the LTS version over regular Ubuntu releases?] The LTS stands for long-term support adn it last for 5 years versus the few months the other offers.
+3. [What is the Ubuntu GNOME Shell?] The display screen for the desktop.
+4. [How do I install software from the command line?] To install you will use the apt managing system.To install software from the command line in Ubuntu, you can use the APT package management system. APT (Advanced Package Tool) is a command-line tool for managing software packages in Debian-based Linux distributions, including Ubuntu. Here are the basic steps for installing software using the command line:
 
 1. Open a Terminal:
    You can open a terminal by pressing `Ctrl + Alt + T` or by searching for "Terminal" in the application menu.
